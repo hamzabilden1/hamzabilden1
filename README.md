@@ -34,9 +34,11 @@ A digital civic tech platform designed to help citizens solve neighborhood probl
 
 ### 🌐 Connect with Me
 
-*   📝 **Read my tech blog (Hashnode):** [hamzabilden.hashnode.dev](https://hamzabilden.hashnode.dev)
-*   💼 **LinkedIn:** [linkedin.com/in/hamzabilden](https://linkedin.com/in/hamzabilden)
-*   🌍 **Portfolio:** [hamzabilden.vercel.app](https://hamzabilden.vercel.app)
+*   📝 **Read my tech blog (Hashnode):** (https://hamzabilden.hashnode.dev)
+*   💼 **LinkedIn:** (https://linkedin.com/in/hamzabilden)
+*   🌍 **Portfolio:** (https://hamzabilden.vercel.app)
+*   Dev.to
+(https://dev.to/hamzabilden)
 
 ---
 *"Bridging biological intelligence and artificial systems."*
